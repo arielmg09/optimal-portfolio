@@ -1,1 +1,2 @@
-# optimal/portfolio
+# Building optimal portfolios
+This is only a draft project
